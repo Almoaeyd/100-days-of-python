@@ -1,4 +1,0 @@
-print("Welcome in Band Name Generator !")
-user_name = input("What is your name ? : ")
-city_name = input("What is your city name ? : ")
-print("your band name is : " + user_name + " " + city_name)
